@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Girl-on-a-string
-- 👀 I’m interested in art, animation, books, and horror
-- 🌱 I’m currently learning html and css
+artist, learning supercollider 
 
 <!---
 Girl-on-a-string/Girl-on-a-string is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
