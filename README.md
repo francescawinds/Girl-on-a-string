@@ -1,4 +1,4 @@
-artist, learning supercollider 
+learning html/css
 
 <!---
 Girl-on-a-string/Girl-on-a-string is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
